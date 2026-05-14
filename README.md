@@ -54,6 +54,72 @@ Different product categories use different inventory thresholds:
 
 ---
 
+# 📊 Inventory Guidance & Restock Intelligence System
+
+![ConsolidateDataScreenshot](inventory_guidance/screenshots/inventory_guidance_screenshot_1.png)
+![ConsolidateDataScreenshot](inventory_guidance/screenshots/inventory_guidance_screenshot_2.png)
+
+A spreadsheet-driven operational inventory platform I designed to transform raw POS exports into actionable restock guidance, sales floor management tools, and real-time inventory visibility systems.
+
+### Core Features
+- Automated inventory consolidation
+- Dynamic restock guidance generation
+- Category and brand-specific threshold logic
+- “Not On Floor” product availability tracking
+- Priority processing guidance
+- Oldest inventory surfacing
+- Visual sales floor drawer management
+
+### Advanced Query Architecture
+One of the core systems powering the project is a highly customized Google Sheets QUERY engine containing deeply nested business logic for:
+- Category-aware inventory thresholds
+- Brand-specific stock rules
+- Package-type differentiation
+- Automated filtering and prioritization
+- Dynamic restock generation
+
+The logic evaluates inventory differently depending on:
+- Product category
+- Brand
+- Hardware type
+- Package size
+- Product format
+- Sales behavior
+
+### Visual Drawer Management GUI
+The project also includes a visual spreadsheet-based GUI used to manage 94 physical product drawers on the sales floor.
+
+Each drawer dynamically displays:
+- Assigned product
+- Current quantity
+- Inventory status
+- Color-coded threshold indicators
+
+The interface includes intelligent dropdown systems allowing staff to:
+- View available replacement inventory
+- Filter by Indica / Hybrid / Sativa
+- Replace products dynamically
+- Prevent duplicate floor assignments
+- Automatically populate updated quantities
+
+### Technologies Used
+- Google Sheets
+- Advanced QUERY formulas
+- Array formulas
+- Power Automate Desktop
+- CSV automation pipelines
+- Spreadsheet engineering
+- Workflow automation systems
+
+### Focus Areas
+- Operational intelligence
+- Inventory workflow optimization
+- Retail systems tooling
+- Data transformation
+- Business-rule automation
+- Spreadsheet application architecture
+---
+
 # 🎨 Graphics Generators
 ![Graphics Visual Summary](graphics_generators/screenshots/GraphicGenerator_Overall_Screenshot.png)
 
