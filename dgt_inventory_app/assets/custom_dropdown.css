@@ -1,0 +1,35 @@
+/* This file has been merged into custom.css. You can safely delete this file. */
+
+.custom-dropdown-up .Select-menu-outer {
+    bottom: 100% !important;
+    top: auto !important;
+    background-color: #222 !important;
+    color: #ccc !important;
+}
+.custom-dropdown-up .Select-control, .custom-dropdown-up .Select {
+    background-color: #222 !important;
+    color: #ccc !important;
+    border-radius: 8px !important;
+}
+.custom-dropdown-up .Select-control:hover, .custom-dropdown-up .Select-control:focus {
+    border-color: #00ff99 !important;
+    box-shadow: 0 0 0 2px #00ff9933 !important;
+}
+.custom-dropdown-up .Select-option {
+    background-color: #222 !important;
+    color: #ccc !important;
+}
+.custom-dropdown-up .Select-option:hover {
+    background-color: #333 !important;
+    color: #00ff99 !important;
+}
+
+/* Force Dash dropdown menu popup to appear above DataTable headers */
+.Select-menu-outer, .Select-menu {
+    z-index: 3001 !important;
+}
+
+/* If DataTable header uses z-index, lower it */
+.dash-header, .dash-table-container .dash-header {
+    z-index: 1 !important;
+}
