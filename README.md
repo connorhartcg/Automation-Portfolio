@@ -118,7 +118,7 @@ This tool was designed to significantly reduce manual intake entry and improve c
 A collection of AI-assisted marketing workflows and creative production systems built to accelerate content generation, advertising production, and campaign iteration.
 
 ![ai_marketing_screenshot](ai_marketing/screenshots/clipp_ad.png)
-![ai_marketing_screenshot](ai_marketing/screenshots/HomeOfTheBogoAd_Square.MP4)
+![ai_marketing_screenshot](ai_marketing/screenshots/ai_marketing_bogo.gif)
 
 ### Focus Areas
 - AI-generated advertising assets
