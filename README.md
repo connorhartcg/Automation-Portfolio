@@ -113,6 +113,36 @@ This tool was designed to significantly reduce manual intake entry and improve c
 - Text normalization logic
 
 ---
+# 🤖 AI Marketing & Creative Automation
+
+A collection of AI-assisted marketing workflows and creative production systems built to accelerate content generation, advertising production, and campaign iteration.
+
+![ai_marketing_screenshot](ai_marketing/screenshots/clipp_ad.png)
+![ai_marketing_screenshot](ai_marketing/screenshots/HomeOfTheBogoAd_Square.MP4)
+
+### Focus Areas
+- AI-generated advertising assets
+- Prompt engineering systems
+- Multi-format content pipelines
+- AI video generation workflows
+- Social media creative automation
+- Brand-consistent asset generation
+
+### Technologies Used
+- ChatGPT
+- Runway
+- Veo
+- Photoshop
+- AI image/video generation tools
+
+### Key Goals
+- Faster campaign iteration
+- Consistent visual branding
+- Scalable content production
+- Cross-platform asset generation
+- Workflow-driven creative systems
+  
+---
 
 # 💰 Competitor Price Scraper
 
